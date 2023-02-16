@@ -1,3 +1,49 @@
-h1{
-  color: green;
-}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Floating clouds</title>
+        <style>
+            body {
+                font-family: sans-serif;
+            }
+            h1 {
+                font-family: sans-serif;
+            }
+            #pic {
+                width: 400;
+                float: left;
+                margin: 12px;
+            }
+            #sidebar {
+                color: red;
+                background: rgb(255, 0, 0);
+                float: right;
+                width: 33.33%;
+                padding: 12px;
+                margin: 12px;
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>A short history of Diaclone</h1>
+
+        <h2> Diaclone (ダイアクロン, Daiakuron) is a toyline by Takara Toys launched in 1980.<br>
+             It consisted of transforming vehicles and robots piloted by miniature, magnet-shoed figures spun off from the prior Microman toy line.</h2>
+
+        <img id="pic" src="https://tfwiki.net/mediawiki/images2/2/27/Diaclone-GRB_logo.jpg">
+        
+        
+        <div id="sidebar">
+            <h5>How it became transformers</h5>
+            <p>In 1983, the Hasbro toy company imported the micro-change line of Diaclone figures to become the first year of Transformers with story and character profiles written by Marvel writer, Bob Budiansky</p>
+        </div>
+        
+        <p>In 1982, the line later featured the Car-Robots set of transforming robot toys, invented by Ōno Kōjin. While the original series featured robots and vehicles, Car-Robots added the feature of the robots being able to disguise themselves as various contemporary vehicles.</p>      <p>Terrestrial cloud formation is the result of air in Earth's atmosphere becoming saturated due to either or both of two processes: cooling of the air and adding water vapor. With sufficient saturation, precipitation will fall to the surface.</p>
+        
+        
+        <p><a href="https://en.wikipedia.org/wiki/Diaclone">Read more on Wikipedia</a></p>
+        
+    </body>
+</html>
